@@ -244,6 +244,7 @@ img {
 .ourteam-item {
   background-color: #ffffff;
   flex-basis: calc(100% - 72px) / 4;
+  border-radius: 0 0 4px 4px;
 }
 
 .ourteam-image {
@@ -255,7 +256,6 @@ img {
 .card-wrapper {
   padding-top: 32px;
   padding-bottom: 32px;
-  border-radius: 0 0 4px 4px;
 }
 
 .ourteam-subtitle {
@@ -301,6 +301,7 @@ img {
 }
 
 .portfolio-subtitle {
+  margin-bottom: 8px;
 }
 
 .portfolio-descr {
